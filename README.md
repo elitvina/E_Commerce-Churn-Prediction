@@ -56,21 +56,3 @@ The Churn Prediction Analysis is divided into several stages:
 2. Stage 1: EDA, Insights & Visialization (Data Understanding)
 3. Stage 2: Data Processing (Data Cleansing & Feature Engineering)
 4. Stage 3: Machine Learning Modelling & Model Evaluation
-
-## Stage 0 :
-### - Problem Statements
-### - Goal
-### - Objective
-### - Business Metric
-
-## Stage 1 :
-### - EDA & Insight Summary
-
-## Stage 2 :
-### - Preprocessing
-
-## Stage 3 :
-### - Modeling
-
-### Recommendation
-
